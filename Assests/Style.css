@@ -1,0 +1,34 @@
+body {
+    background-color: #d9dcd6;
+
+}
+
+header h1 {
+    text-align: center;
+    font-size: 48px;
+    background: #772014;
+}
+
+.li {
+font-display: inline-block;
+
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+@media screen and (max-width: 992px)
+header {
+    background: #772014;
+}
+
+nav {
+    font-display: block
+    ;
+}
